@@ -1,6 +1,6 @@
 # Hi, I'm Izzul 👋
 
-Informatics Engineering Student and Fullstack Web Developer.
+Informatics Engineering Student passionate about Fullstack Web Development, Machine Learning, and Software Engineering.
 
 ## Tech Stack
 
