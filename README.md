@@ -23,7 +23,7 @@ Task management platform for students built with React and Node.js.
 ### PRIMA
 Web application project using modern JavaScript technologies.
 
-##RFM Customer Segmentation
+### RFM Customer Segmentation
 
 Customer segmentation project using RFM analysis and K-Means clustering to identify customer groups and generate business insights.
 
