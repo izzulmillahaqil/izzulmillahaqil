@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Izzul 👋
 
-<!--
-**izzulmillahaqil/izzulmillahaqil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatics Engineering Student and Fullstack Web Developer.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React.js
+- JavaScript
+- Node.js
+- Express.js
+- MySQL
+- Git & GitHub
+
+## Featured Projects
+
+### StudyHub
+Task management platform for students built with React and Node.js.
+
+### PRIMA
+Web application project using modern JavaScript technologies.
+
+## Currently Learning
+
+- REST API Development
+- Authentication with JWT
+- Database Design
+- Web Security
+
+## Contact
+
+- GitHub: github.com/izzulmillahaqil
